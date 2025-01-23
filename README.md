@@ -1,1 +1,1 @@
-# android-tictactoe
+# tictactoe
